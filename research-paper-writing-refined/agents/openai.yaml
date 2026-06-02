@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Paper Writing Refined"
+  short_description: "Personalized academic paper writing and section-level refinement"
+  default_prompt: "Use $research-paper-writing-refined to improve my paper's structure, flow, section writing quality, and personalized academic style."
