@@ -149,3 +149,4 @@ Before submission or any serious draft handoff, check:
 7. Appendix/supplement: verify appendix pointers, numbering, venue compliance, anonymity, and whether every appendix section supports a main-text claim.
 8. Visual plan: verify intro/method/experiment/case-study visuals, data sources, captions, and TODOs for missing figures.
 9. Section hierarchy: merge small unnecessary headings and keep visible sections aligned with the claim-thread.
+10. Abstract contract: verify venue word limit, 5-6 sentence structure, 25/25/35/15 IMRD budget, concrete result evidence, and no colon-led or overly enumerative phrasing.

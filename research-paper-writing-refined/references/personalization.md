@@ -84,6 +84,29 @@ Prefer this Introduction structure when suitable:
 The gap must be paired with difficulty.
 Do not only say prior work is missing something; explain why the missing capability is technically hard.
 
+### Abstract Hard Contract
+
+When writing abstracts, use a strict short-form structure.
+This rule has priority over optional abstract templates.
+Before writing, confirm the target venue's abstract word limit when available.
+
+Default requirements:
+
+1. 150-250 words unless the target venue gives a different official limit.
+2. Exactly 5-6 sentences for a standard research-paper abstract, unless the venue format forces otherwise.
+3. Sentence flow: Background -> Gap -> Insight -> Method -> Result -> Significance.
+4. Insight and Method may be merged when needed.
+5. Approximate IMRD information budget:
+   - 25% introduction and importance,
+   - 25% methods,
+   - 35% results,
+   - 15% discussion or significance.
+6. The Result portion should contain the most concrete evidence and should not be skipped.
+7. Do not use colon labels or colon-led pseudo-outlines in the final abstract, such as `Background:`, `Method:`, `Results:`, or `We make three contributions:`.
+8. Avoid excessive enumeration, slash lists, semicolon inventories, and "first/second/third" contribution lists.
+9. Do not write the abstract as a list of contributions.
+10. Missing concrete results, evidence, or scope must be marked with red TODOs at the exact result or claim location.
+
 ### Core Claim Narrative
 
 Before drafting a full paper or major section, identify the central claim in one sentence.
